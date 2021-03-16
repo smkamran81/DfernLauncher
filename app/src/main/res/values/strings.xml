@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Launcher</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="setup_policy_instruction">Set up device administration policy:</string>
+    <string name="setup_password_quality">Select a password quality</string>
+    <string name="setup_password_length">Set min. pw. length</string>
+    <string name="setup_password_uppercase">Set min. pw. uppercase</string>
+    <string name="setup_action_activate">Activate</string>
+    <string name="setup_message_activate">Press button to activate the device administrator</string>
+    <string name="setup_action_set_policy">Enforce Policy</string>
+    <string name="setup_message_set_policy">Press button to enforce specified policy.</string>
+    <string name="setup_action_enforce_policy">Update Password</string>
+    <string name="setup_message_enforce_policy">Current password doesn\'t conform to the policy.\nPress button to update password.</string>
+    <string name="setup_action_go_secured">Go</string>
+    <string name="setup_message_go_secured">Current password conforms to policy.  Device is protected.\nPress button to access secured content.</string>
+
+    <!-- View policy activity -->
+    <string name="view_policy_instruction">Review device administration policy:</string>
+    <string name="view_password_quality">Password quality:</string>
+    <string name="view_password_length">Minimum password length:</string>
+    <string name="view_password_uppercase">Minimum password upper case:</string>
+    <string name="secure_message">Device is properly secured. Access is granted to secured content</string>
+    <string name="device_admin_activation_message">    Kindly Press the "Activate" button to continue. You just need to do it once.</string>
+    <string name="title_activity_network">Network</string>
+    <string name="title_activity_logo">LogoActivity</string>
+
+</resources>

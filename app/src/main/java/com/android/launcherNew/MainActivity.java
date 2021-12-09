@@ -806,7 +806,7 @@ Toast.makeText(getApplicationContext(), "Unable to connect to server. Try again"
             InputStream is = c.getInputStream();
             int total_size = 9421824;//apk_size;//
             
-            Log.d("apk size i download Radio",total_size+" S");
+            Log.d("download Radio",total_size+" S");
             byte[] buffer = new byte[1024];
             int len1 = 0;
             int per = 0;
@@ -1060,7 +1060,7 @@ Toast.makeText(getApplicationContext(), "Unable to connect to server. Try again"
             InputStream is = c.getInputStream();
             int total_size = 11441000;//apk_size;//
             
-            Log.d("apk size i download TeamViewver",total_size+" S");
+            Log.d("download TeamViewver",total_size+" S");
             byte[] buffer = new byte[1024];
             int len1 = 0;
             int per = 0;
@@ -1191,7 +1191,7 @@ Toast.makeText(getApplicationContext(), "Unable to connect to server. Try again"
             InputStream is = c.getInputStream();
             int total_size = 1228000;//apk_size;//
             
-            Log.d("apk size i download TeamViewver",total_size+" S");
+            Log.d("download TeamViewver",total_size+" S");
             byte[] buffer = new byte[1024];
             int len1 = 0;
             int per = 0;
@@ -1320,7 +1320,7 @@ Toast.makeText(getApplicationContext(), "Astrill app is downloaded successfully.
             InputStream is = c.getInputStream();
             int total_size = 7903232;//apk_size;//
             
-            Log.d("apk size i download astrill",total_size+" S");
+            Log.d("apk astrill",total_size+" S");
             byte[] buffer = new byte[1024];
             int len1 = 0;
             int per = 0;
